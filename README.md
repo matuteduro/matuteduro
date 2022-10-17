@@ -14,7 +14,7 @@
 
 
 <h4 align="center"> See my <a href="https://www.durodev.com" target="_blank">portfolio</a></h4>
-<h5 align="center">- 📫 How to reach me 👉 matias_duro@hotmail.com 👈</h5>
+<h5 align="center">- 📫 How to reach me 👉 <a href="mailto:matias_duro@hotmail.com">matias_duro@hotmail.com</a> 👈</h5>
 <h5 align="center">- 📫 Check my 👉<a href="https://pdfhost.io/v/CMqKOlUNX_Matias_Duro_CV">Resume</a>👈</h5>
 
 
